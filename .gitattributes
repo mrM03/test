@@ -1,0 +1,129 @@
+*.Provider text=auto
+*.URL binary
+*.amateras text=auto
+*.approval text=auto
+*.bat text eol=crlf
+*.bin binary
+*.bmp binary
+*.c text=auto
+*.cab binary
+*.cer binary
+*.class binary
+*.cmd text eol=crlf
+*.conf text=auto
+*.config text=auto
+*.cpp text=auto
+*.css text=auto
+*.csv text=auto
+*.dat binary
+*.data binary
+*.db binary
+*.dll binary
+*.doc binary
+*.docx binary
+*.donotcall text eol=crlf
+*.dot binary
+*.dsp text eol=crlf
+*.dsw text eol=crlf
+*.dtd text=auto
+*.ecore text=auto
+*.ecore_diagram text=auto
+*.ed text eol=lf
+*.ent text=auto
+*.epf text=auto
+*.exe binary
+*.gif binary
+*.gz binary
+*.h text=auto
+*.htc text=auto
+*.htm text=auto
+*.html text=auto
+*.ico binary
+*.importorder text=auto
+*.inc text=auto
+*.incl text=auto
+*.jar binary
+*.java text=auto
+*.java_ text=auto
+*.jelly text=auto
+*.jj text=auto
+*.jjt-file text=auto
+*.jpeg binary
+*.jpg binary
+*.jpl text=auto
+*.js text=auto
+*.jsp text=auto
+*.key binary
+*.keystore binary
+*.launch text=auto
+*.lax text eol=crlf
+*.obj binary
+*.patch text=auto
+*.pdf binary
+*.pl text=auto
+*.png binary
+*.policy text=auto
+*.pps binary
+*.ppt binary
+*.pptx binary
+*.prefs text=auto
+*.properties text=auto
+*.psf text=auto
+*.py text=auto
+*.rb text=auto
+*.renametojar binary
+*.rhtml text=auto
+*.rnc text=auto
+*.rng text=auto
+*.rtf binary
+*.sh text eol=lf
+*.so binary
+*.spec text eol=lf
+*.sql text=auto
+*.swf binary
+*.template text=auto
+*.test text=auto
+*.tgz binary
+*.tif binary
+*.tiff binary
+*.tld text=auto
+*.tlr text=auto
+*.tlw text=auto
+*.txt text=auto
+*.ucd text=auto
+*.usd text=auto
+*.uxf text=auto
+*.vsd binary
+*.vsl text=auto
+*.war binary
+*.wav binary
+*.wsdd text=auto
+*.wsdl text=auto
+*.xcf binary
+*.xcf.gz binary
+*.xhtml text=auto
+*.xla binary
+*.xls binary
+*.xlsx binary
+*.xml text=auto
+*.xsd text=auto
+*.xsl text=auto
+*.xslt text=auto
+*.zip binary
+.classpath text=auto
+.factorypath text=auto
+.djunitplugin text=auto
+.project text=auto
+.xmlcatalog text=auto
+INSTALL text=auto
+KEYS text=auto
+LICENSE text=auto
+Makefile text=auto
+NOTICE text=auto
+README text=auto
+RELEASE-NOTES text=auto
+WHATSNEW text=auto
+ant text eol=lf
+antRun text eol=lf
+apache text eol=lf
+package-list text=auto
